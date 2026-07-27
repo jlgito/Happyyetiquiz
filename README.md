@@ -12,8 +12,10 @@ Son objectif n'est pas d'être un produit final, mais de servir d'exemple pour i
 
 ### Authentification
 
-![Authentification](images/authentication.png)
 
+<p align="center">
+  <img src="images/authentication.png" alt="Authentification" width="300">
+</p>
 > Écran de connexion permettant à l'utilisateur de s'authentifier.
 
 ### Menu principal
