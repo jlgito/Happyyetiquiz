@@ -20,13 +20,18 @@ Son objectif n'est pas d'être un produit final, mais de servir d'exemple pour i
 
 ### Menu principal
 
-![Menu principal](images/menu.png)
 
+
+<p align="center">
+  <img src="images/menu.png" alt="Authentification" width="300">
+</p>
 > Vue d'ensemble des principales fonctionnalités disponibles.
 
 ### Système de trophées
+<p align="center">
+  <img src="images/trophies.png" alt="Authentification" width="300">
+</p>
 
-![Trophées](images/trophies.png)
 
 > Exemple des trophées que l'utilisateur peut débloquer au fil de son utilisation de l'application.
 
